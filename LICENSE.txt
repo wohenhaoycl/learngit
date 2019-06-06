@@ -1,1 +1,2 @@
 git is a distributed version control system.
+#git command is easy learn
