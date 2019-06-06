@@ -1,6 +1,0 @@
-test.txt
-include<stdio.h>
-int main()
-{
-
-}
