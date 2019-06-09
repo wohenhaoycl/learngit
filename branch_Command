@@ -1,10 +1,19 @@
 #分支
 
+#新建
+$git branch <branch name>
+#新建一个分支
 $git checkout -b <branch name>
 #新建并切换分支，相当于{git branch <bran name> git checkout <branch name>}两个命令
 
+#切换分支
+$git checkout <branch name>
+
+#合并
 $git merge <branch name>
 #将分支合并到当前分支
-
 $git rebase <branch name>
 #将当前分支变基到分支
+
+#删除
+$git branch -d <branch name>
