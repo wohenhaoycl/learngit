@@ -17,3 +17,12 @@ $git rebase <branch name>
 
 #删除
 $git branch -d <branch name>
+
+#显示分支
+$git branch
+#显示分支的信息，带*的为当前分支
+$git branch -a
+#显示所有分支（包括远程分支）信息,带*为当前分支
+$git log --oneline --decorate --graph --all
+#可以看到图形化的分支信息
+
