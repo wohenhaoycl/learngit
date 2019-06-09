@@ -1,2 +1,2 @@
-master
-111
+#!/usr/bin/ruby -w
+puts "Hello,world!";
