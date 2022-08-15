@@ -1,0 +1,217 @@
+[33mcommit 786e769486e296e82829a7c85e84d8a8856dac3c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 17:48:54 2019 +0800
+
+    :bug:1.test program add class Program.:pencil:2.add Enumeration
+
+[33mcommit 2d8de50bf7a56eb3acaacda9c31f6c7f9dc27cb7[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 16:11:24 2019 +0800
+
+    add program.c and type in program Main function
+
+[33mcommit b77ab79bd31f35f563282a8078a85d46a0d7263d[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 15:41:17 2019 +0800
+
+    add java helloworld.java file and type in helloworld program
+
+[33mcommit f96fe933f750257fb4c41d76303b502f691fb6ee[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 15:04:56 2019 +0800
+
+    put ruby helloworld program in test.rb
+
+[33mcommit e23481ff62ffea061578f466f45a37fdfa955bb6[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 13:33:35 2019 +0800
+
+    add rebase --onto command
+
+[33mcommit b50482762343939be225b926dbb9fe1b7bb27753[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 22:02:49 2019 +0800
+
+    add index.html and type in html program
+
+[33mcommit 56c8993ffb4bf3dbff7c06f045b5d8ed7f8110cb[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 16:02:36 2019 +0800
+
+    add file mytestjscore.js and type in javascript function core
+
+[33mcommit ccff7403b952ef918b1b6574603bb49463c1f1bb[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 15:13:57 2019 +0800
+
+    add descriptive
+
+[33mcommit c904a673d9d44f2122595a5390791e5bea8f24bf[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 15:07:38 2019 +0800
+
+    update tag string in LICENSE
+
+[33mcommit 234e8f0e6f41348f806c27aa4a7132d6b695b60c[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 10:50:58 2019 +0800
+
+    update branch_Command file
+
+[33mcommit 1d8e1e9c7b9f7b49753a8ce8315782c330a631f5[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 11:15:25 2019 +0800
+
+    LICENSE
+
+[33mcommit cdf462e48a554837a17f4b861b958b177956eee5[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 10:21:45 2019 +0800
+
+    file branch_Command add
+
+[33mcommit d6070d39fbe191faa5914b1928b7aaac898fb6d8[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 11:01:25 2019 +0800
+
+    update LICENSE
+
+[33mcommit 895c25869494fe7dcd9bc91912556abf9ba224be[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sun Jun 9 10:36:54 2019 +0800
+
+    update readme.txt
+
+[33mcommit 36fcde3bbfe19a0b25610144762fca0bbe2473f5[m
+Merge: 36e7f9d b08bb7e
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sat Jun 8 14:25:50 2019 +0800
+
+    merge master and testing branch
+
+[33mcommit 36e7f9de5157bce0fb5974a8aa6effa443b31730[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sat Jun 8 13:16:41 2019 +0800
+
+    :pencil: made other changes
+
+[33mcommit b08bb7ea49ff0ea3c493b11b123b256bd6ebd060[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sat Jun 8 13:12:52 2019 +0800
+
+    :pencil: made a change
+
+[33mcommit cd8bc522f7f02f2fa9a502f6242b4c6fa1584bb9[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sat Jun 8 12:33:16 2019 +0800
+
+    :pencil: updated for gitmoji
+
+[33mcommit 977ddc3bcd2fda099883cdadaf2f01073e27d162[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Sat Jun 8 12:19:14 2019 +0800
+
+    :bug: add test.rb
+
+[33mcommit 2ae43aca8cdca4a3616bb51b72f397f71fd85a09[m
+Merge: 01c0f27 b67d042
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Fri Jun 7 16:07:21 2019 +0800
+
+    Merge branch 'master' of github.com:wohenhaoycl/learngit
+
+[33mcommit 01c0f27128e49f6c49281a8de7de7342a055f76d[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Fri Jun 7 15:56:00 2019 +0800
+
+    rename LICENSE.txt to LICENSE
+
+[33mcommit b67d042e34ab3577fb7d8e00d6c5d2fc39a2f6ce[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Fri Jun 7 15:56:00 2019 +0800
+
+    rename LICENSE.txt to
+
+[33mcommit 278a682ce79d05e0dd09f20c7d3c5b322ebc2056[m[33m ([m[1;33mtag: v1.4[m[33m)[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Fri Jun 7 01:45:43 2019 +0800
+
+    git test for remote
+
+[33mcommit d2d104a9f93280663d1b9923d8283d8bf3a96c90[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Thu Jun 6 16:50:20 2019 +0800
+
+    rm test.txt and test1.txt
+
+[33mcommit 45d71c145d9efee5e2273bc1a6e6aa4e855990a2[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Thu Jun 6 16:26:22 2019 +0800
+
+    delete text2.txt
+
+[33mcommit eb7d91a978abc290f0666101b396483edb1dc379[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Thu Jun 6 16:19:06 2019 +0800
+
+    update test2.txt
+
+[33mcommit 35216110cfe6d456d7f5a6e28ba68b4e16d8bf06[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Wed Jun 5 03:37:49 2019 +0800
+
+    test/learn push
+
+[33mcommit 5f57b854a13d0f1115b4125c565aeee2cb4931d4[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Wed Jun 5 01:21:59 2019 +0800
+
+    add test.txt and test1.txt
+
+[33mcommit 0d83ed37ff85963e7041081fca8ec7eccd92fa76[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Wed Jun 5 00:55:54 2019 +0800
+
+    reset
+
+[33mcommit 0d93845fc77a72ea48bee6aeb58aa528eeb37e2d[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Wed Jun 5 00:46:42 2019 +0800
+
+    add some words in test.txt
+
+[33mcommit 483bd24a490158b387b6a7b239ee1f31b90dcaeb[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Wed Jun 5 00:34:42 2019 +0800
+
+    add test.txt
+
+[33mcommit e57012d3f2b5fc54ccaf1a72a7c5f3bf8f5a9592[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Tue Jun 4 20:10:53 2019 +0800
+
+    understand how stage works
+
+[33mcommit ec3391c363007ee4d43b8586fe37d29126ced7c5[m[33m ([m[1;33mtag: v0.2.3[m[33m, [m[1;33mtag: v0.2.2[m[33m)[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Tue Jun 4 20:06:24 2019 +0800
+
+    add on line comment stage
+
+[33mcommit 0156da78778660326a8a394cd7e99fac75dd2d60[m[33m ([m[1;33mtag: v0.2.1[m[33m)[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Tue Jun 4 16:03:55 2019 +0800
+
+    append GPL
+
+[33mcommit 3e7e25d9275703912ecf9e0287dd294ec48e4f9b[m[33m ([m[1;33mtag: v0.2[m[33m)[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Tue Jun 4 16:00:35 2019 +0800
+
+    add distributed
+
+[33mcommit 38ad4ee10a781fd626bf106d44d398bdbd8ee735[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Author: wohenhaoycl <254644245@qq.com>
+Date:   Tue Jun 4 15:47:48 2019 +0800
+
+    wrote a readme file
