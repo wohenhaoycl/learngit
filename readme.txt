@@ -6,3 +6,4 @@ add branch_Command file to describe some branch operation
 add ruby helloworld program in test.rb
 Creating a new branch is quick & simple
 git switch -c dev
+git log --graph --pretty=oneline --abbrev-commit
