@@ -16,6 +16,8 @@ $git rebase <branch name>
 #将当前分支变基到分支
 $git rebase --onto master server client
 取出client分支和server分支的共同祖先后修改然后把他们在master分支上重放一遍。
+$ git merge --no-ff -m "merge with no-ff" dev
+合并dev分支,--no-ff参数，表示禁用Fast forward
 
 #删除
 $git branch -d <branch name>
